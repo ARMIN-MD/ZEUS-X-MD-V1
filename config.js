@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 
 //gg
 module.exports = {
-SESSION_ID:'session eka methenta danna',
+SESSION_ID:'g7ZSwbQK#wCv9Tw6x7FyOcdYz3xkcwsFLWHzMtxQDLG-ZPCxK7PQ',
 
 ANTI_DELETE: process.env.ANTI_DELETE === undefined ? 'true' : process.env.ANTI_DELETE, 
 MV_BLOCK: process.env. MV_BLOCK === undefined ? 'false' : process.env. MV_BLOCK,    
@@ -16,7 +16,7 @@ SEEDR_PASSWORD: '',
 SUDO: '',//
 DB_NAME: 'zeus',
 LANG: 'SI',
-OWNER_NUMBER: '94774571418',
+OWNER_NUMBER: '93796274067',
 TG_GROUP: ''
 
 };
